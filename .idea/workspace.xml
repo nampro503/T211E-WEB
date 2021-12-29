@@ -7,6 +7,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/Aptech-T2211E-Web.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IMG/Ronaldo-phat-cau-voi-Cavani---Rashford-phong-thay-do-MU-de-0_screen-shot-2021-12-27-at-203844--2--1640691457-240-width740height424.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/IMG/anh1.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/IMG/anh2.png" beforeDir="false" />
@@ -22,6 +23,11 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -65,7 +71,7 @@
       <workItem from="1640694203636" duration="8814000" />
       <workItem from="1640703401975" duration="1112000" />
       <workItem from="1640786794088" duration="5366000" />
-      <workItem from="1640793581016" duration="1016000" />
+      <workItem from="1640793581016" duration="1733000" />
     </task>
     <task id="LOCAL-00001" summary="t211E-Web">
       <created>1640702203427</created>
@@ -123,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640793650913</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="t211E-Web">
+      <created>1640794952082</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1640794952082</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
