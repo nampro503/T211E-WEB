@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2fb8b1d0-bc3f-4755-a134-bfa734030578" name="Changes" comment="t211E-Web">
+      <change afterPath="$PROJECT_DIR$/buoi1/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Aptech-T2211E-Web.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/Ronaldo-phat-cau-voi-Cavani---Rashford-phong-thay-do-MU-de-0_screen-shot-2021-12-27-at-203844--2--1640691457-240-width740height424.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/anh1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/anh2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/anh3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/anh4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/anh5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/anh6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="22uj7plMo4mdO3HO12nT31DVo98" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fb8b1d0-bc3f-4755-a134-bfa734030578" name="Changes" comment="" />
+      <created>1640694202412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640694202412</updated>
+      <workItem from="1640694203636" duration="8814000" />
+      <workItem from="1640703401975" duration="1112000" />
+      <workItem from="1640786794088" duration="5366000" />
+      <workItem from="1640793581016" duration="1016000" />
+    </task>
+    <task id="LOCAL-00001" summary="t211E-Web">
+      <created>1640702203427</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640702203427</updated>
+    </task>
+    <task id="LOCAL-00002" summary="t211E-Web">
+      <created>1640702451760</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1640702451760</updated>
+    </task>
+    <task id="LOCAL-00003" summary="t211E-Web">
+      <created>1640702705480</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1640702705480</updated>
+    </task>
+    <task id="LOCAL-00004" summary="t211E-Web">
+      <created>1640704045250</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1640704045250</updated>
+    </task>
+    <task id="LOCAL-00005" summary="t211E-Web">
+      <created>1640792192830</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1640792192830</updated>
+    </task>
+    <task id="LOCAL-00006" summary="t211E-Web">
+      <created>1640792323938</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1640792323938</updated>
+    </task>
+    <task id="LOCAL-00007" summary="t211E-Web">
+      <created>1640793189469</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1640793189469</updated>
+    </task>
+    <task id="LOCAL-00008" summary="t211E-Web">
+      <created>1640793650913</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1640793650913</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="phuongnam" />
+    <MESSAGE value="t211E-Web" />
+    <option name="LAST_COMMIT_MESSAGE" value="t211E-Web" />
+  </component>
+</project>
