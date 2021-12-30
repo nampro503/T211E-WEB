@@ -1,0 +1,58 @@
+
+body{
+    background: black;
+
+}
+*{
+    list-style: none;
+    margin: 0px;
+    font-size: 10px;
+
+
+}
+.civil{
+    background: white;
+    width: 686px;
+    height: 939px;
+    margin: auto;
+}
+.khoi{
+    border-bottom: 2px dashed #c75279;
+}
+#diachi{
+    margin-top: 10px;
+    float: right;
+    text-align: right;
+    padding-top: 10px;
+    line-height: 16px;
+
+
+
+}
+#dairong{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top :15px;
+}
+.nav{
+    padding-bottom: 15px;
+    border-bottom: 2px dashed #c75279;
+
+}
+p{
+    padding-bottom: 10px;
+    line-height: 14px;
+    font-family:Arial;
+    font-size: 10px;
+
+}
+
+
+
+
+h5{
+    color: #ab136a;
+    text-decoration:underline;
+    padding-top: 13px;
+    padding-bottom: 13px;
+}
