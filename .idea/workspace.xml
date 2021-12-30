@@ -2,32 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fb8b1d0-bc3f-4755-a134-bfa734030578" name="Changes" comment="t211E-Web">
-      <change afterPath="$PROJECT_DIR$/buoi1/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Aptech-T2211E-Web.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Aptech-T2211E-Web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/Ronaldo-phat-cau-voi-Cavani---Rashford-phong-thay-do-MU-de-0_screen-shot-2021-12-27-at-203844--2--1640691457-240-width740height424.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/anh1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/anh2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/anh3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/anh4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/anh5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/anh6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi1/.idea/Aptech-T2211E-Web.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi1/IMG/anh1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi1/IMG/anh11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi1/IMG/anh2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi1/IMG/anh3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi1/IMG/anh4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi1/IMG/anh5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi1/IMG/anh6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi1/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi1/index.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="ChangesViewManager">
-    <option name="groupingKeys">
-      <option value="directory" />
-    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -71,7 +69,6 @@
       <workItem from="1640694203636" duration="8814000" />
       <workItem from="1640703401975" duration="1112000" />
       <workItem from="1640786794088" duration="5366000" />
-      <workItem from="1640793581016" duration="1733000" />
     </task>
     <task id="LOCAL-00001" summary="t211E-Web">
       <created>1640702203427</created>
@@ -122,21 +119,7 @@
       <option name="project" value="LOCAL" />
       <updated>1640793189469</updated>
     </task>
-    <task id="LOCAL-00008" summary="t211E-Web">
-      <created>1640793650913</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1640793650913</updated>
-    </task>
-    <task id="LOCAL-00009" summary="t211E-Web">
-      <created>1640794952082</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1640794952082</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
