@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fb8b1d0-bc3f-4755-a134-bfa734030578" name="Changes" comment="t211E-Web" />
+    <list default="true" id="2fb8b1d0-bc3f-4755-a134-bfa734030578" name="Changes" comment="t211E-Web">
+      <change beforePath="$PROJECT_DIR$/css/lab3.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/lab3.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +60,8 @@
       <workItem from="1640786794088" duration="5366000" />
       <workItem from="1640972005058" duration="1400000" />
       <workItem from="1641294535829" duration="15117000" />
-      <workItem from="1641364624954" duration="18474000" />
+      <workItem from="1641364624954" duration="18637000" />
+      <workItem from="1641467699762" duration="2712000" />
     </task>
     <task id="LOCAL-00001" summary="t211E-Web">
       <created>1640702203427</created>
@@ -130,7 +133,21 @@
       <option name="project" value="LOCAL" />
       <updated>1641406477885</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="t211E-Web">
+      <created>1641406566800</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1641406566800</updated>
+    </task>
+    <task id="LOCAL-00012" summary="t211E-Web">
+      <created>1641471400232</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1641471400232</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

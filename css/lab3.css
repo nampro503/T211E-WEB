@@ -10,6 +10,7 @@ body{
     width: 100%;
     /*max-width: 1000px;*/
     min-height: 100px;
+
 }
 .container{
     position: relative;
@@ -95,8 +96,7 @@ h1{
     margin: auto;
 
 }
-@media (max-width: 600px)all {
-    max-with:600px;
+
 }
 
 
