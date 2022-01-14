@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo JS2</title>
+</head>
+<body>
+<h1 id="light"> Đèn Nhấp Nháy 2022</h1>
+<h2><span id="minutes">10</span>:<span id="seconds">00</span></h2>
+ <script type="text/javascript">
+     var p = document.getElementById("minutes");
+     var c = document.getElementById("seconds");
+     var min=10,sec=0;
+
+     var timer = setInterval(function (){
+         // toán tử 3 ngôi
+         var m_txt = min<10?("0"+min):min;
+
+         // if(m<10){
+         //     m_txt = "0"+min;
+         // }else{
+         //     m_txt = min;
+         // }
+
+         var sec_txt = sec<10?"0"+sec:sec;
+
+         p.innerText= m_txt;
+         c.innerText = sec_txt;
+         sec--;
+         if(sec<0){
+             sec=59;
+             min--;
+         }
+         if(min<0){
+             clearInterval(timer);
+         }
+     },100);
+
+     // var r = document.getElementById("light");
+     // var f = false;
+     // setInterval(function (){
+     //     if(f==false){
+     //         r.style.color = "red";
+     //         f=true;
+     //     }else{
+     //         r.style.color = "blue";
+     //         f=false;
+     //     }
+     // },200);
+
+ </script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Curren weather</title>
+</head>
+<body>
+<div class="container" style="margin: auto">
+    <h1 class="city">Ha noi,Viet Nam</h1>
+    <h2>Nhiệt độ :21<sup>o</sup>C</h2>
+    <h2>Độ ẩm: 94%</h2>
+    <h2>Áp Suất :1000</h2>
+    <p>overcast clouds</p>
+</div>
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript">
+    $.ajax({
+        url:"https://api.openweathermap.org/data/2.5/weather?q=hanoi,vn&appid=09a71427c59d38d6a34f89b47d75975c&units=metric",
+        method:"Get",
+        success:function (rs){
+            var product = rs.data;
+            for (var i = 0; i<product.length;i++){
+                var html = "<div class=\"container\" style=\"margin: auto\">\n" +
+                    "    <h1 class=\"city\">Ha noi,Viet Nam</h1>\n" +
+                    "    <h2>Nhiệt độ :21<sup>o</sup>C</h2>\n" +
+                    "    <h2>Độ ẩm: 94%</h2>\n" +
+                    "    <h2>Áp Suất :1000</h2>\n" +
+                    "    <p>overcast clouds</p>\n" +
+                    "</div>";
+                $(".container").append(html);
+            }
+        }
+
+        }
+
+    )
+</script>
+</body>
+</html>

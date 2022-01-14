@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo AJAX</title>
+    <link rel="stylesheet" href="vendors/bootstrap3.4.1/css/bootstrap.css"/>
+    <link rel="stylesheet" href="vendors/font-awesome/css/all.css"/>
+</head>
+<body>
+<section class="col-md-12">
+    <div class="container">
+        <ul class="row" id="list">
+            <li class="col-md-3">
+                <img src="imgs/tech.png" class="thumbnail"/>
+                <h2>Bánh mỳ kẹp thịt</h2>
+                <p>12$</p>
+            </li>
+            <li class="col-md-3">
+                <img src="imgs/tech.png" class="thumbnail"/>
+                <h2>Bánh mỳ kẹp thịt</h2>
+                <p>12$</p>
+            </li>
+            <li class="col-md-3">
+                <img src="imgs/tech.png" class="thumbnail"/>
+                <h2>Bánh mỳ kẹp thịt</h2>
+                <p>12$</p>
+            </li>
+            <li class="col-md-3">
+                <img src="imgs/tech.png" class="thumbnail"/>
+                <h2>Bánh mỳ kẹp thịt</h2>
+                <p>12$</p>
+            </li>
+        </ul>
+    </div>
+</section>
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript">
+    // dung ajax để lấy dữ liệu về
+    $.ajax({
+        url:"https://foodgroup.herokuapp.com/api/today-special",
+        method:"GET",
+        success:function (rs) { // hàm callback để nhận dữ liệu khi truy vấn thành công
+            var products = rs.data;
+            for(var i=0;i<products.length;i++){
+                // nap từng sản phẩm lên giao diện phía trên
+                var p_html = "<li class=\"col-md-3\">\n" +
+                    "                    <img src=\""+products[i].image+"\" class=\"thumbnail\"/>\n" +
+                    "                    <h2>"+products[i].name+"</h2>\n" +
+                    "                    <p>"+products[i].price+"</p>\n" +
+                    "                </li>";
+                $("#list").append(p_html);
+            }
+        }
+    });
+</script>
+</body>
+</html>

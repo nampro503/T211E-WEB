@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>demojas3</title>
+    <link rel="stylesheet" href="../css/demojs3.css">
+</head>
+<body>
+<form>
+    <div >
+       Họ và Tên <label ></label>
+        <input type="text" id="name" placeholder="Họ tên" style="margin-left: 35px; margin-bottom: 20px">
+    </div>
+    <div>
+        Điện Thoại <label ></label>
+        <input type="text" id="telephone" placeholder="Điện thoại" style="margin-left: 30px ;  margin-bottom: 20px">
+    </div>
+    <div>
+        Email <label ></label>
+        <input type="text" id="email" placeholder="Email" style="margin-left: 64px;  margin-bottom: 20px">
+    </div>
+    <div>
+       Địa Chỉ <label ></label>
+        <input type="text" id="diachi" placeholder="Địa chỉ" style="margin-left: 52px ; height: 50px; margin-bottom: 20px">
+
+    </div>
+    <button onclick="onClick()">Submit</button>
+</form>
+<div class="info">
+  <h3></h3><br>
+    <p></p><br>
+    <p></p><br>
+    <p></p>
+
+</div>
+<script type="text/javascript">
+    function onClick(){
+        console.log("dsfjkhsdfa")
+        var name= document.getElementById("name").value;
+        var telephone=document.getElementById("telephone").value;
+        var email=document.getElementById("email").value;
+        var diachi=document.getElementById("diachi").value;
+
+        var info= document.getElementById("info");
+
+        info.innerHTML=
+            "<h3>Name: " + name + "</h3>";
+
+
+
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Forecast weather</title>
+    <link rel="stylesheet" href="vendors/bootstrap3.4.1/css/bootstrap.css"/>
+    <link rel="stylesheet" href="css/forecast.css"/>
+</head>
+<body>
+<section class="col-md-12">
+    <div class="container">
+        <ul class="row" id="forecast">
+
+
+        </ul>
+    </div>
+</section>
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript">
+    $.ajax({
+        url:"http://api.openweathermap.org/data/2.5/forecast",
+        method:"get",
+        data:{
+            q:"Hanoi,vietnam",
+            appid:"09a71427c59d38d6a34f89b47d75975c",
+            units:"metric"
+        },
+        success:function (rs){
+            console.log(rs)
+            var list  = rs.list;
+            console.log(list.length)
+            for(var i=0;i<list.length;i++){
+                var date = list[i].dt_txt;
+                var tmp = list[i].main.temp;
+                 // var dsc = list.weather[0].description
+                var dsc = "";
+                for (var j=0;j<list[i].weather.length;j++){
+                    dsc += list[i].weather[j].description;
+                }
+                var icon = list[i].weather[0].icon;
+                var li_html = "<li class=\"col-md-3\">\n" +
+                    "                    <div class=\"item\">\n" +
+                    "                        <h3>"+date+"</h3>\n" +
+                    "                        <h2>"+tmp+" <sup>o</sup>C</h2>\n" +
+                    "                        <p class='text-capitalize'>"+dsc+"</p>\n" +
+                    "                        <img src=\"http://openweathermap.org/img/wn/"+icon+"@2x.png\"/>\n" +
+                    "                    </div>\n" +
+                    "                </li>";
+                $('#forecast').append(li_html);
+            }
+        }
+    });
+</script>
+</body>
+</html>
