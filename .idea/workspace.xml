@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fb8b1d0-bc3f-4755-a134-bfa734030578" name="Changes" comment="labs5">
+    <list default="true" id="2fb8b1d0-bc3f-4755-a134-bfa734030578" name="Changes" comment="labs6">
+      <change afterPath="$PROJECT_DIR$/IMG/air-force-1-07-shoe-WrLlWX.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IMG/anh-bia-giay-nike-chay-bo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IMG/logo-nike-1536.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IMG/logojordan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoJs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form-demo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/labs5.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/labs5.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labs5.html" beforeDir="false" afterPath="$PROJECT_DIR$/labs5.html" afterDir="false" />
@@ -14,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -69,7 +75,10 @@
       <workItem from="1641898742986" duration="2302000" />
       <workItem from="1641909307704" duration="744000" />
       <workItem from="1642071743519" duration="15229000" />
-      <workItem from="1642142509366" duration="6255000" />
+      <workItem from="1642142509366" duration="11626000" />
+      <workItem from="1642247973714" duration="5760000" />
+      <workItem from="1642422586010" duration="7170000" />
+      <workItem from="1642503382260" duration="289000" />
     </task>
     <task id="LOCAL-00001" summary="t211E-Web">
       <created>1640702203427</created>
@@ -176,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642088790716</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="labs5">
+      <created>1642149060942</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1642149060942</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +213,7 @@
     <MESSAGE value="phuongnam" />
     <MESSAGE value="t211E-Web" />
     <MESSAGE value="labs5" />
-    <option name="LAST_COMMIT_MESSAGE" value="labs5" />
+    <MESSAGE value="labs6" />
+    <option name="LAST_COMMIT_MESSAGE" value="labs6" />
   </component>
 </project>
