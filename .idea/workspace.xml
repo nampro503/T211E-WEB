@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fb8b1d0-bc3f-4755-a134-bfa734030578" name="Changes" comment="labs5">
+    <list default="true" id="2fb8b1d0-bc3f-4755-a134-bfa734030578" name="Changes" comment="demojs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/labs5.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/labs5.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs5.html" beforeDir="false" afterPath="$PROJECT_DIR$/labs5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSlabs3.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +69,7 @@
       <workItem from="1641909307704" duration="744000" />
       <workItem from="1642071743519" duration="15229000" />
       <workItem from="1642142509366" duration="6255000" />
+      <workItem from="1645524687109" duration="361000" />
     </task>
     <task id="LOCAL-00001" summary="t211E-Web">
       <created>1640702203427</created>
