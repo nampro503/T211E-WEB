@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fb8b1d0-bc3f-4755-a134-bfa734030578" name="Changes" comment="demojs">
+      <change afterPath="$PROJECT_DIR$/js2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSlabs3.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS3.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -69,7 +70,9 @@
       <workItem from="1641909307704" duration="744000" />
       <workItem from="1642071743519" duration="15229000" />
       <workItem from="1642142509366" duration="6255000" />
-      <workItem from="1645524687109" duration="361000" />
+      <workItem from="1645524687109" duration="2932000" />
+      <workItem from="1645529418154" duration="12000" />
+      <workItem from="1645880398798" duration="56000" />
     </task>
     <task id="LOCAL-00001" summary="t211E-Web">
       <created>1640702203427</created>
@@ -176,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642088790716</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="demojs">
+      <created>1645525070566</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1645525070566</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +207,7 @@
     <MESSAGE value="phuongnam" />
     <MESSAGE value="t211E-Web" />
     <MESSAGE value="labs5" />
-    <option name="LAST_COMMIT_MESSAGE" value="labs5" />
+    <MESSAGE value="demojs" />
+    <option name="LAST_COMMIT_MESSAGE" value="demojs" />
   </component>
 </project>
